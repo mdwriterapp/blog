@@ -1,0 +1,9 @@
+name: Solar Theme
+url: http://mdwriterapp.com/blog
+description: Блог о iOS и редакторах.
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
